@@ -61,3 +61,7 @@ p.card-description {
 .label-radio {
   margin-right: 30px;
 }
+a.active {
+  color: #bbd0d8;
+  text-decoration: underline;
+}
